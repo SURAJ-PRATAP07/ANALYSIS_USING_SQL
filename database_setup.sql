@@ -1,9 +1,3 @@
--- ============================================================
---  RETAIL SALES ANALYSIS — DATABASE SETUP
---  Author  : Satyam Chauhan
---  GitHub  : https://github.com/SatyamChauhan2005
---  Version : 1.0
--- ============================================================
 
 -- Create and use database
 CREATE DATABASE IF NOT EXISTS retail_sales_db;
