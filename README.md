@@ -148,30 +148,6 @@ sql-data-analysis-mysql/
 └── README.md                 ← Project documentation
 ```
 
----
-
-## ▶️ How to Run
-
-**Step 1 — Clone the repository**
-```bash
-git clone https://github.com/SatyamChauhan2005/sql-data-analysis-mysql.git
-cd sql-data-analysis-mysql
-```
-
-**Step 2 — Set up the database**
-```sql
--- In MySQL Workbench or CLI:
-source database_setup.sql;
-```
-
-**Step 3 — Run the analysis**
-```sql
-source analysis_queries.sql;
-```
-
-**Or copy-paste** individual queries from `analysis_queries.sql` into MySQL Workbench to explore one by one.
-
----
 
 ## 🛠 Tools & Technologies
 ## 🧠 Skills Demonstrated
@@ -181,12 +157,6 @@ source analysis_queries.sql;
 - Advanced SQL (CTE, Window Functions)  
 - Data Aggregation & Transformation  
 ---
-
-## 🤝 Connect
-
-**LinkedIn:** [linkedin.com/in/satyamchauhan2005](https://www.linkedin.com/in/satyamchauhan2005)
-**GitHub:** [github.com/SatyamChauhan2005](https://github.com/SatyamChauhan2005)
-**Portfolio:** [satyamchauhan2005.github.io/Portfolio](https://satyamchauhan2005.github.io/Portfolio/)
 
 ---
 
