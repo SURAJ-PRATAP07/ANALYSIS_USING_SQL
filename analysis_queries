@@ -1,10 +1,4 @@
--- ============================================================
---  RETAIL SALES ANALYSIS — BUSINESS QUERIES
---  Author  : Satyam Chauhan
---  GitHub  : https://github.com/SatyamChauhan2005
---  Total   : 20 Queries | Concepts: JOINs, GROUP BY,
---            Subqueries, Window Functions, CTEs, CASE
--- ============================================================
+
 
 USE retail_sales_db;
 
